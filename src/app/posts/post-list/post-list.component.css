@@ -1,0 +1,26 @@
+p, .card-title{
+  text-align: center;
+}
+
+.btn{
+  text-decoration: none;
+  color: white;
+}
+
+.card{
+  margin-top: 5px;
+  width: 80%;
+}
+
+.card-footer{
+  text-align: center;
+  padding: 10px;
+}
+
+a{
+  margin-right: 2px;
+}
+
+button{
+  margin-left: 2px;
+}

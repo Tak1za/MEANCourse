@@ -1,0 +1,10 @@
+h2, p{
+    text-align: center;
+}
+
+hr{
+    width: 400px;
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+}
